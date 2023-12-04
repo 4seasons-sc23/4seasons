@@ -19,7 +19,10 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
     <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/minio-C72E49?style=flat&logo=minio&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+<br/>
+	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/openstack-ED1944?style=flat&logo=openstack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white" />
 
 </div>
 <br>
@@ -29,11 +32,10 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=flat&logo=intellijidea&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-    <br/>
+<br/>
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/OBS%20Studio-302E31?style=flat&logo=obsstudio&logoColor=white" />
-    <img src="https://img.shields.io/badge/openstack-ED1944?style=flat&logo=openstack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white" />
+
 
 
 </div>
