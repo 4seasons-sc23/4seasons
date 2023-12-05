@@ -107,7 +107,7 @@
 |---|---|---|---|
 |강동하|프론트엔드 개발|kmh0913@ajou.ac.kr|https://github.com/KNamuuu|
 |유진|백엔드 개발|dbwls30131@ajou.ac.kr|https://github.com/YooJin919|
-|장성호|백엔드 개발|qq9725@ajou.ac.kr|https://https://github.com/Long9725|
+|장성호|백엔드 개발|qq9725@ajou.ac.kr|https://github.com/Long9725|
 |최민석|인프라, DevOps|alstjr1642@ajou.ac.kr|https://github.com/sigee-min|
 
 <br/>
