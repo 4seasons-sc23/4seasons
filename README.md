@@ -54,6 +54,9 @@
 <br/>
 
 ## 프로젝트 주요 기능
+
+![image](https://github.com/4seasons-sc23/4seasons/assets/86904692/27a7074a-5e8d-4a2e-85af-77faa0114bb5)
+
 'InStream'은 크게 다음과 같은 세 가지 주요 기능을 통해 사용 기업에게 편의를 제공합니다.  
 
 **1. 멀티테넌시**
